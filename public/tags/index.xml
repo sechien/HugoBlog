@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 胖熊之家</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 胖熊之家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>strategy</title>
+      <link>/tags/strategy/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>胖熊之家</title>
+      <link>/tags/%E8%83%96%E7%86%8A%E4%B9%8B%E5%AE%B6/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E8%83%96%E7%86%8A%E4%B9%8B%E5%AE%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自我學習</title>
+      <link>/tags/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%E8%87%AA%E6%88%91%E5%AD%B8%E7%BF%92/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
